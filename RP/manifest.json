@@ -1,0 +1,52 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Onkornix"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.6.2"
+			],
+			"dash": [
+				"0.10.10"
+			]
+		}
+	},
+	"header": {
+		"name": "MCBEstrogen_v3",
+		"description": "The definitive HRT has come to m=Minecraft",
+		"min_engine_version": [
+			1,
+			20,
+			30
+		],
+		"uuid": "b3811a74-180a-4559-a476-8637f4556549",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "489b6173-1f77-4d5e-9698-49bb63439eb4",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "9092b476-45e0-40ab-a795-281bdfac4a7c",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

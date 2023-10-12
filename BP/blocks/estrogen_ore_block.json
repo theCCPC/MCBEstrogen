@@ -1,0 +1,28 @@
+{
+	"format_version": "1.19.50",
+	"minecraft:block": {
+		"description": {
+			"identifier": "hrt:estrogen_ore_block"
+		},
+		"components": {
+			"minecraft:destructible_by_mining": {
+				"seconds_to_destroy": 1
+			},
+			"minecraft:loot": "loot_tables/estrogen_ore_block_loot.json",
+			"minecraft:destructible_by_explosion": {
+				"explosion_resistance": 1
+			},
+			"minecraft:map_color": "#FF0EDF",
+			"minecraft:on_player_destroyed": {
+				"event": "broken"
+			}
+		},
+		"events": {
+			"broken": {
+				"run_command": {
+					"command": "/function broken"
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,75 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Onkornix"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.6.2"
+			],
+			"dash": [
+				"0.10.10"
+			]
+		}
+	},
+	"header": {
+		"name": "MCBEstrogen_v3",
+		"description": "The definitive HRT has come to m=Minecraft",
+		"min_engine_version": [
+			1,
+			20,
+			30
+		],
+		"uuid": "9092b476-45e0-40ab-a795-281bdfac4a7c",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "6b106704-f68c-4b87-ba21-beded088402f",
+			"version": [
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"type": "script",
+			"language": "javascript",
+			"uuid": "08f00811-6239-448b-b45f-38bfec6862ca",
+			"entry": "scripts/main.js",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "b3811a74-180a-4559-a476-8637f4556549",
+			"version": [
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"module_name": "@minecraft/server",
+			"version": "1.0.0-beta"
+		},
+		{
+			"module_name": "@minecraft/server-gametest",
+			"version": "1.0.0-beta"
+		},
+		{
+			"module_name": "@minecraft/server-ui",
+			"version": "1.0.0-beta"
+		}
+	]
+}
