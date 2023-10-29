@@ -1,0 +1,45 @@
+{
+	"type": "minecraftBedrock",
+	"name": "MCBEstrogen_v3",
+	"namespace": "hrt",
+	"authors": [
+		"Onkornix"
+	],
+	"targetVersion": "1.20.30",
+	"description": "The definitive HRT has come to m=Minecraft",
+	"experimentalGameplay": {
+		"holidayCreatorFeatures": true,
+		"creationOfCustomBiomes": true,
+		"upcomingCreatorFeatures": true,
+		"enableGameTestFramework": true,
+		"experimentalMolangFeatures": true,
+		"educationEdition": false
+	},
+	"bdsProject": false,
+	"packs": {
+		"behaviorPack": "./BP",
+		"resourcePack": "./RP"
+	},
+	"worlds": [
+		"./worlds/*"
+	],
+	"compiler": {
+		"plugins": [
+			"generatorScripts",
+			"typeScript",
+			"entityIdentifierAlias",
+			"customEntityComponents",
+			"customItemComponents",
+			"customBlockComponents",
+			"customCommands",
+			"moLang",
+			"formatVersionCorrection",
+			[
+				"simpleRewrite",
+				{
+					"packName": "MCBEstrogen_v3"
+				}
+			]
+		]
+	}
+}
