@@ -1,0 +1,18 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "hrt:estrogen_ore",
+			"category": "nature"
+		},
+		"components": {
+			"minecraft:icon": {
+				"texture": "hrt_estrogen_ore"
+			},
+			"minecraft:display_name": {
+				"value": "Estrogen Ore"
+			},
+			"minecraft:foil": true
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"num_mip_levels": 4,
+	"padding": 8,
+	"resource_pack_name": "MCBEstrogen_v3",
+	"texture_name": "atlas.terrain",
+	"texture_data": {
+		"hrt_estrogen_ore_block": {
+			"textures": "textures/blocks/estrogen_ore_block"
+		}
+	}
+}

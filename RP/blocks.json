@@ -1,0 +1,11 @@
+{
+	"format_version": [
+		1,
+		1,
+		0
+	],
+	"hrt:estrogen_ore_block": {
+		"sound": "stone",
+		"textures": "hrt_estrogen_ore_block"
+	}
+}
