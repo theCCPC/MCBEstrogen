@@ -1,5 +1,5 @@
 {
-	"format_version": "1.16.100",
+	"format_version": "1.20.20",
 	"minecraft:item": {
 		"description": {
 			"identifier": "hrt:estrogen_powder",
@@ -9,7 +9,9 @@
 			"minecraft:icon": {
 				"texture": "hrt_estrogen_powder"
 			},
-			"minecraft:foil": true
+			"minecraft:fertilizer": {
+				"type": "rapid"
+			}
 		}
 	}
 }

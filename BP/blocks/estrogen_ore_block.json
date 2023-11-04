@@ -13,12 +13,11 @@
 			"minecraft:destructible_by_mining": {
 				"seconds_to_destroy": 1
 			},
-			"minecraft:loot": "loot_tables/estrogen_ore_block_loot.json",
+			"minecraft:loot": "loot_tables/estrogen_ore_block.json",
 			"minecraft:destructible_by_explosion": {
 				"explosion_resistance": 1
 			},
-			"minecraft:map_color": "#FF0EDF",
-			"minecraft:display_name": "Estrogen Ore Block"
+			"minecraft:map_color": "#FF0EDF"
 		}
 	}
 }

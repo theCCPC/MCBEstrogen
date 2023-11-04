@@ -9,18 +9,18 @@
 		],
 		"key": {
 			"E": {
-				"item": "hrt:estrogen_pill"
+				"item": "hrt:estrogen_powder"
 			},
 			"C": {
-				"item": "minecraft:cocao_beans"
+				"item": "minecraft:cocoa_beans"
 			},
-			"L": {
-				"item": "minecraft:lapis_lazuli"
+			"D": {
+				"item": "minecraft:diamond"
 			}
 		},
 		"pattern": [
 			"ECE",
-			"ELE",
+			"EDE",
 			"ECE"
 		],
 		"result": {

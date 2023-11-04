@@ -38,7 +38,7 @@
 				"distribution": "uniform",
 				"extent": [
 					0,
-					64
+					32
 				]
 			},
 			"z": {
