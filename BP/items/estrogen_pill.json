@@ -1,0 +1,32 @@
+{
+	"format_version": "1.20.20",
+	"minecraft:item": {
+		"description": {
+			"identifier": "hrt:estrogen_pill",
+			"category": "items"
+		},
+		"components": {
+			"minecraft:icon": {
+				"texture": "hrt_estrogen_pill"
+			},
+			"minecraft:max_stack_size": 1,
+			"minecraft:food": {
+				"can_always_eat": false,
+				"nutrition": 20,
+				"saturation_modifier": 5,
+				"on_consume": {
+					"event": "consume"
+				}
+			},
+			"minecraft:use_animation": "eat",
+			"minecraft:use_duration": 3
+		},
+		"events": {
+			"consume": {
+				"run_command": {
+					"command": "/function girl_power"
+				}
+			}
+		}
+	}
+}

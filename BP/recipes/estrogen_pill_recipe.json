@@ -1,0 +1,31 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "hrt:estrogen_pill_recipe"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"E": {
+				"item": "hrt:estrogen_powder"
+			},
+			"C": {
+				"item": "minecraft:cocoa_beans"
+			},
+			"D": {
+				"item": "minecraft:diamond"
+			}
+		},
+		"pattern": [
+			"ECE",
+			"EDE",
+			"ECE"
+		],
+		"result": {
+			"item": "hrt:estrogen_pill",
+			"count": 1
+		}
+	}
+}
