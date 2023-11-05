@@ -5,7 +5,7 @@ HRT has **OFFICIALLY** come to Minecraft!
 
 ***⚠️IMPORTANT NOTICE⚠️:*** When playing with this addon you need to enable Experimental Features when creating the world. Specifically **Hoiday Creator Features** and **Custom Biomes**
 
-Visit the [Releases Page](https://github.com/theCCPC/MCBEstrogen/releases) to download the latest version, or clone the directory and do it your own way
+Visit the [Releases Page](https://github.com/theCCPC/MCBEstrogen/releases) to download the latest .mcaddon file, or clone the repository and do it your own way.
 
 ### But wait- 
 
