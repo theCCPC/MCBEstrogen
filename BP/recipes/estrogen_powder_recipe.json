@@ -1,27 +1,14 @@
 {
 	"format_version": "1.12",
-	"minecraft:recipe_shaped": {
+	"minecraft:recipe_furnace": {
 		"description": {
 			"identifier": "hrt:estrogen_powder_recipe"
 		},
 		"tags": [
-			"crafting_table"
+			"blast_furnace",
+			"furnace"
 		],
-		"key": {
-			"X": {
-				"item": "hrt:estrogen_ore"
-			},
-			"Y": {
-				"item": "minecraft:sugar"
-			}
-		},
-		"pattern": [
-			"XY",
-			"YX"
-		],
-		"result": {
-			"item": "hrt:estrogen_powder",
-			"count": 2
-		}
+		"input": "hrt:estrogen_shards",
+		"output": "hrt:estrogen_powder"
 	}
 }

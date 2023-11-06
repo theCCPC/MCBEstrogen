@@ -1,4 +1,6 @@
-item.hrt:estrogen_ore=Estrogen Ore
+item.hrt:estrogen_shards=Estrogen Shards
 tile.hrt:estrogen_ore_block.name=Estrogen Ore Block
 item.hrt:estrogen_powder=Estrogen Powder
 item.hrt:estrogen_pill=Estrogen Pill
+tile.hrt:estrogen_flower.name=Estrogen Flower
+tile.hrt:estrogen_flower.name=Estrogen Flower

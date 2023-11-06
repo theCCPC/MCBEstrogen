@@ -9,7 +9,10 @@
 			"minecraft:icon": {
 				"texture": "hrt_estrogen_shards"
 			},
-			"minecraft:glint": true
+			"minecraft:glint": true,
+			"minecraft:fuel": {
+				"duration": 20
+			}
 		}
 	}
 }

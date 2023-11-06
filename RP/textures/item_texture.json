@@ -2,8 +2,8 @@
 	"resource_pack_name": "MCBEstrogen_v3",
 	"texture_name": "atlas.items",
 	"texture_data": {
-		"hrt_estrogen_ore": {
-			"textures": "textures/items/estrogen_ore"
+		"hrt_estrogen_shards": {
+			"textures": "textures/items/estrogen_shards"
 		},
 		"hrt_estrogen_powder": {
 			"textures": "textures/items/estrogen_powder"

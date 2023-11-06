@@ -11,17 +11,17 @@
 			"E": {
 				"item": "hrt:estrogen_powder"
 			},
-			"C": {
-				"item": "minecraft:cocoa_beans"
+			"S": {
+				"item": "minecraft:sugar"
 			},
-			"D": {
-				"item": "minecraft:diamond"
+			"B": {
+				"item": "minecraft:light_blue_dye"
 			}
 		},
 		"pattern": [
-			"ECE",
-			"EDE",
-			"ECE"
+			"BBB",
+			"SSS",
+			"EEE"
 		],
 		"result": {
 			"item": "hrt:estrogen_pill",

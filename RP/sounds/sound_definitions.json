@@ -1,4 +1,17 @@
 {
 	"format_version": "1.14.0",
-	"sound_definitions": {}
+	"sound_definitions": {
+		"girl_mode": {
+			"category": "player",
+			"max_distance": 15,
+			"min_distance": 0,
+			"sounds": [
+				{
+					"name": "sounds/estrogen_activate",
+					"stream": false,
+					"volume": 0.5
+				}
+			]
+		}
+	}
 }

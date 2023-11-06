@@ -6,6 +6,9 @@
 	"texture_data": {
 		"hrt_estrogen_ore_block": {
 			"textures": "textures/blocks/estrogen_ore_block"
+		},
+		"hrt_estrogen_flower": {
+			"textures": "textures/blocks/estrogen_flower_texture"
 		}
 	}
 }

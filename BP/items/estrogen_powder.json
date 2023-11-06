@@ -8,9 +8,6 @@
 		"components": {
 			"minecraft:icon": {
 				"texture": "hrt_estrogen_powder"
-			},
-			"minecraft:fertilizer": {
-				"type": "rapid"
 			}
 		}
 	}
